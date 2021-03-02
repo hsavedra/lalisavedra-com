@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.addtoany.com	TRUE	/	FALSE	1999999999	__cfduid	dae5fc66fe494fc76187c2151641c030c1613771366
+static.addtoany.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

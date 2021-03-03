@@ -1,10 +1,1 @@
-id 26090
-opcode QUERY
-rcode NOERROR
-flags QR RD RA
-;QUESTION
-lalisavedra.com. IN CNAME
-;ANSWER
-;AUTHORITY
-lalisavedra.com. 1799 IN SOA dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1614652348 43200 3600 604800 3601
-;ADDITIONAL
+lalisavedra.com

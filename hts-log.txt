@@ -7,7 +7,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 18:50:20	Error: 	"Method Not Allowed" (405) at link https://lalisavedra.com/xmlrpc.php (from https://lalisavedra.com/)
-19:07:43	Warning: 	File not parsed, looks like binary: https://lalisavedra.com/wp-content/themes/savedra/fontawesome/fonts/fontawesome-webfont.woff2?v=4.5.0
+19:07:43	Warning: 	File not parsed, looks like binary: https://lalisavedra.com/lalisavedra.com/wp-content/themes/savedra/fontawesome/fonts/fontawesome-webfont.woff2?v=4.5.0
 19:07:43	Warning: 	Moved Permanently for https://lalisavedra.com/?p=197
 19:07:43	Warning: 	File has moved from https://lalisavedra.com/?p=197 to https://lalisavedra.com/biografia/
 19:07:43	Warning: 	Moved Permanently for https://lalisavedra.com/?p=2
